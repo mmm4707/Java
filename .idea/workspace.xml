@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c52e0d-a191-4853-9488-ffa5c936f4bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ThisisJava/src/main/java/org/seohyun/ch04/SwitchExpressonsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThisisJava/src/main/java/org/seohyun/ch04/ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThisisJava/src/main/java/org/seohyun/ch04/ex06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <updated>1688638157527</updated>
       <workItem from="1688638159274" duration="8000" />
       <workItem from="1688713677433" duration="4003000" />
-      <workItem from="1688966874066" duration="310000" />
+      <workItem from="1688966874066" duration="5093000" />
     </task>
     <servers />
   </component>
