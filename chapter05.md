@@ -48,7 +48,7 @@ public class ex07 {
 }
 ```
 
-8-
+8- O
 
 ```java
 public class ex08 {
