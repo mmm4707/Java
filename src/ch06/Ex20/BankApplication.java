@@ -3,8 +3,8 @@ package ch06.Ex20;
 import java.util.Scanner;
 
 public class BankApplication {
-    private static Account[] accountArray = new Account[100];
-    private static Scanner scanner = new Scanner(System.in);
+    private static final Account[] accountArray = new Account[100];
+    private static final Scanner scanner = new Scanner(System.in);
 
 
     public static void main(String[] args) {
@@ -23,11 +23,11 @@ public class BankApplication {
                     System.out.println("--------");
                     System.out.println("계좌생성");
                     System.out.println("--------");
-                    System.out.printf("계좌번호: ");
+                    System.out.print("계좌번호: ");
                     String accountNumber = scanner.nextLine();
-                    System.out.printf("계좌주: ");
+                    System.out.print("계좌주: ");
                     String name = scanner.nextLine();
-                    System.out.printf("초기입금액: ");
+                    System.out.print("초기입금액: ");
                     int balance = Integer.parseInt(scanner.nextLine());
                     Account newAccount = new Account(accountNumber, name, balance);
                     for(int i =0; i< accountArray.length ; i++){
