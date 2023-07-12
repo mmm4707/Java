@@ -1,0 +1,8 @@
+
+U
+java:S2184"@Cast one of the operands of this integer division to a "double".(Ð¹Úy
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ð€»üÿÿÿÿ
+P
+java:S3518";Make sure "total" can't be zero before doing this division.(Ð¹Úy
+>
+java:S1905")Remove this unnecessary cast to "double".(Ð¹Úy

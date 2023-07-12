@@ -8,7 +8,7 @@ public class Ex09 {
         int[] scores = null;
         int max = 0;
         int total = 0;
-        double avg = 0.0;
+        double avg;
         while(run){
             System.out.println("--------------------------------------------");
             System.out.println("1.학생수 | 2.점수입력 | 3.점수리스트 | 4.분석 | 5.종료");
