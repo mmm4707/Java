@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2d2f21-1539-4e06-bbd7-35bfb7b7b5e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/ExtendsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceCImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch06/Ex20/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/Ex20/BankApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -70,7 +76,7 @@
       <updated>1689074745855</updated>
       <workItem from="1689074747269" duration="409000" />
       <workItem from="1689075463752" duration="7561000" />
-      <workItem from="1689146477199" duration="6321000" />
+      <workItem from="1689146477199" duration="9453000" />
     </task>
     <servers />
   </component>
