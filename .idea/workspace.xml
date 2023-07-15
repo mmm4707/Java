@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2d2f21-1539-4e06-bbd7-35bfb7b7b5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/ExtendsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/interfaceInheritance/InterfaceCImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/staticMethod/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/staticMethod/Television.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,26 @@
       <recent name="$PROJECT_DIR$/src/ch04" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="RemoteControlExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08.staticMethod.RemoteControlExample" />
+      <module name="ThisIsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch08.staticMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoteControlExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +91,7 @@
       <updated>1689074745855</updated>
       <workItem from="1689074747269" duration="409000" />
       <workItem from="1689075463752" duration="7561000" />
-      <workItem from="1689146477199" duration="9453000" />
+      <workItem from="1689146477199" duration="10733000" />
     </task>
     <servers />
   </component>
