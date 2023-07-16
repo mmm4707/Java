@@ -27,3 +27,21 @@ N
 chapter05.md,c/e/ce296974d4d8e835076f6ed6bd4bdfc9556d2872
 B
 src/ch06/Ex13.java,1/6/16af1020a7dc777cf952fb57a1bc4d2ebcf4fc19
+B
+src/ch06/Ex18.java,8/f/8fd2070921bde2906dc3683ffe368d26fed264ee
+J
+src/ch06/Ex20/Account.java,f/a/fa1add92e92b9f6c1264e54590b8cb5e87f2e697
+B
+src/ch06/Ex19.java,e/5/e5d6f38ddb2dc7e899c2b20262844195c5bd464f
+G
+src/ch06/Singleton.java,e/1/e12ad40e87d8b1a0c4f953087770287ebc1c68d9
+B
+src/ch05/Ex09.java,5/e/5e6b85df2a376585d058dc18cbf54bc8214ce2e3
+B
+src/ch06/Ex14.java,2/1/2196813c42582511242f7fe27198c49b6157be90
+B
+src/ch06/Ex15.java,9/1/91a35a5bf759a93cf9a7eae02e3cd3b4b6fc5793
+B
+src/ch06/Ex17.java,7/5/754e83cfbe268f3a9161a73fe214879d785e5ed9
+B
+src/ch06/Ex16.java,b/e/befe19c4d12a113b8fc29f39fbb0727f7d675199

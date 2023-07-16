@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ð€»üÿÿÿÿ
+Z
+java:S2259%"DA "NullPointerException" could be thrown; "scores" is nullable here.(Œ¦£›
+Z
+java:S2259"DA "NullPointerException" could be thrown; "scores" is nullable here.(Œ¦£›
+Z
+java:S2259 "DA "NullPointerException" could be thrown; "scores" is nullable here.(Œ¦£›
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+7	java:S131""Add a default case to this switch.(å¯µÑ
