@@ -1,4 +1,4 @@
-package ch09.InstanceMemberClass.Ex04;
+package ch09.Ex04;
 
 public class Car {
     class Tire {}
