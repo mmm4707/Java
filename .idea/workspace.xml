@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2d2f21-1539-4e06-bbd7-35bfb7b7b5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch11/exceptionHandlingExample/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/exceptionHandlingExample2/ExceptionHandlingExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/ch04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionHandlingExample">
+  <component name="RunManager" selected="Application.ExceptionHandlingExample2">
     <configuration name="AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch09.InstanceMemberClass.AExample" />
       <module name="ThisIsJava" />
@@ -101,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08.Ex07.DaoExample" />
-      <module name="ThisIsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch08.Ex07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch11.exceptionHandlingExample.ExceptionHandlingExample" />
       <module name="ThisIsJava" />
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExceptionHandlingExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.exceptionHandlingExample2.ExceptionHandlingExample2" />
+      <module name="ThisIsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch11.exceptionHandlingExample2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandlingExample2" />
         <item itemvalue="Application.ExceptionHandlingExample" />
         <item itemvalue="Application.AnonymouseExample" />
         <item itemvalue="Application.ActionExample" />
         <item itemvalue="Application.AExample" />
-        <item itemvalue="Application.DaoExample" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1689074747269" duration="409000" />
       <workItem from="1689075463752" duration="7561000" />
       <workItem from="1689146477199" duration="11331000" />
-      <workItem from="1689503573403" duration="13694000" />
+      <workItem from="1689503573403" duration="14033000" />
     </task>
     <servers />
   </component>
