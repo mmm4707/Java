@@ -1,0 +1,12 @@
+
+Q
+java:S1066V"/Merge this if statement with the enclosing one.(Œ¾´Åüÿÿÿÿ8‹àÄÉ”1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’®‚8çí¤É”1
+g
+java:S2259I"EA "NullPointerException" could be thrown; "account" is nullable here.(™¹ï„úÿÿÿÿ8˜õ®É”1
+b
+java:S2259?"EA "NullPointerException" could be thrown; "account" is nullable here.(À¦ş–8¸ÁÊÉ”1
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ëí¤É”1
+>	java:S131""Add a default case to this switch.(å¯µÑ8ìí¤É”1

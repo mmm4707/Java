@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2d2f21-1539-4e06-bbd7-35bfb7b7b5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch11/Ex07/LoginExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/Ex07/NotExistIDException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/Ex07/WrongPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/Ex08/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/Ex08/FileWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/equalsMethod/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/equalsMethod/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/ch04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoginExample">
+  <component name="RunManager" selected="Application.EqualsExample">
     <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch11.customException.AccountExample" />
       <module name="ThisIsJava" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11.exceptionHandlingExample2.ExceptionHandlingExample2" />
+    <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.equalsMethod.EqualsExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11.exceptionHandlingExample2.*" />
+          <option name="PATTERN" value="ch12.equalsMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsExample" />
         <item itemvalue="Application.LoginExample" />
         <item itemvalue="Application.FileWriterExample" />
         <item itemvalue="Application.AccountExample" />
         <item itemvalue="Application.TryWithResourceExample" />
-        <item itemvalue="Application.ExceptionHandlingExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -152,11 +152,19 @@
       <workItem from="1689074747269" duration="409000" />
       <workItem from="1689075463752" duration="7561000" />
       <workItem from="1689146477199" duration="11331000" />
-      <workItem from="1689503573403" duration="17352000" />
+      <workItem from="1689503573403" duration="18196000" />
+      <workItem from="1689742751968" duration="248000" />
+      <workItem from="1689743008049" duration="485000" />
+      <workItem from="1689743496761" duration="245000" />
+      <workItem from="1689743754274" duration="2871000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
