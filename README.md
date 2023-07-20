@@ -1,5 +1,7 @@
 # This is Java
 이것이자바다 개정판 (2022) - 한빛미디어 <br>
+--
+2023/07/06 ~ 
 ---
 <div align=center>
 <img src="https://img.shields.io/badge/notion-FCC624?style=for-the-badge&logo=notion&logoColor=black">  <br>
