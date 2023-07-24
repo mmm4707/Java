@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2d2f21-1539-4e06-bbd7-35bfb7b7b5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch12/mathExample/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/randomExample/RandomExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12/mathExample/MathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/mathExample/MathExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/ch04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathExample">
+  <component name="RunManager" selected="Application.RandomExample">
     <configuration name="BytesToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch12.bytesToStringExample.BytesToStringExample" />
       <module name="ThisIsJava" />
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.exitExample.ExitExample" />
+    <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.mathExample.MathExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.exitExample.*" />
+          <option name="PATTERN" value="ch12.mathExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.mathExample.MathExample" />
+    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.randomExample.RandomExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.mathExample.*" />
+          <option name="PATTERN" value="ch12.randomExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomExample" />
         <item itemvalue="Application.MathExample" />
         <item itemvalue="Application.ValueCompareExample" />
         <item itemvalue="Application.StringTokenizerExample" />
         <item itemvalue="Application.BytesToStringExample" />
-        <item itemvalue="Application.ExitExample" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,7 @@
       <workItem from="1689742751968" duration="248000" />
       <workItem from="1689743008049" duration="485000" />
       <workItem from="1689743496761" duration="245000" />
-      <workItem from="1689743754274" duration="9248000" />
+      <workItem from="1689743754274" duration="10322000" />
     </task>
     <servers />
   </component>
